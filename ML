@@ -1,0 +1,4 @@
+1)Christopher M. Bishop, Pattern Recognition and Machine Learning* (2006) - тут неплохо EM и GMM описаны
+2) Kevin P. Murphy, Probabilistic Machine Learning: An Introduction -   тут человеческий язык 
+3) Jakub M. Tomczak, Deep Generative Modeling - генеративный ии
+
